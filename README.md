@@ -24,9 +24,15 @@ const dmitry: Developer = {
 };
 ```
 
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmorong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9)
 
-## 🚀 Мои проекты 
-##    (почти все в Pinned Repos)
+</div>
+
+## 🚀 Мои проекты (почти все в Pinned Repos)
 
 ### 📱 PoinTo - Кросс-платформенный таск-менеджер
 > 🎓 **Дипломный проект** | Flutter | Real-time синхронизация
@@ -109,11 +115,11 @@ timeline
          : Kotlin, Android Studio
          : Первые мобильные приложения
     
-    2024 : Fullstack
+    2024 : Fullstack прорыв
          : Flutter, React, Node.js
          : Разработка PoinTo
     
-    2025 : Защита диплома бакалавра 
+    2025 : Защита диплома бакалавра
          : Магистратура в ИТМО
          : Веб-технологии
          : Django + 1C интеграция летом
@@ -124,11 +130,16 @@ timeline
 <details>
 <summary>🎯 Дипломный survivor</summary>
 
-```
-🎓 Защитил диплом: ✅ DONE
-⏰ Дней с защиты: ![](https://img.shields.io/badge/🎓%20Защитился-87%20дней%20назад-brightgreen?style=for-the-badge)
-🏆 Статус: Выживший после дипломной защиты
-```
+<div align="center">
+
+🎓 **Защитил диплом:** 25.06.2025 ✅
+
+![Days Since Defense](https://img.shields.io/badge/🎓%20Дней%20с%20защиты-87-brightgreen?style=for-the-badge&logo=calendar&logoColor=white)
+
+🏆 **Статус:** Выживший после дипломной защиты  
+🎯 **Следующая цель:** Магистратура ИТМО
+
+</div>
 
 </details>
 
@@ -155,6 +166,31 @@ Perfection on ice → Perfect code execution
 
 </details>
 
+## 🎮 Мини-игра: Угадай технологию!
+
+<details>
+<summary>🔍 Нажми, чтобы увидеть код!</summary>
+
+```dart
+class TaskManager {
+  final String id;
+  final List<User> collaborators;
+  
+  Stream<Task> get realTimeUpdates => 
+    _firestore.collection('tasks').snapshots();
+    
+  Future<void> assignTask(Task task, User user) async {
+    // Какая технология? 🤔
+  }
+}
+```
+
+<details>
+<summary>Ответ</summary>
+🎯 **Flutter + Dart** из проекта PoinTo!
+</details>
+
+</details>
 
 ## 🌍 Где меня найти
 
@@ -174,15 +210,11 @@ Perfection on ice → Perfect code execution
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=dkamkov&color=2F81F7&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=gmorong&color=2F81F7&style=for-the-badge)
   
   **⭐ Если тебе нравится то, что я делаю - поставь звездочку моим проектам!**
   
 </div>
-
-<!--
-**dkamkov/dkamkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ## 🎯 2025 Goals
 
