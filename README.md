@@ -126,7 +126,7 @@ timeline
 
 ```
 🎓 Защитил диплом: ✅ DONE
-⏰ Дней с защиты: COUNTER_PLACEHOLDER
+⏰ Дней с защиты: ![Days Since Defense](https://img.shields.io/badge/Дней%20с%20защиты-87-blue?style=for-the-badge&logo=calendar&logoColor=white)
 🏆 Статус: Выживший после дипломной защиты
 ```
 
