@@ -33,7 +33,7 @@ const dmitry: Developer = {
 ## 🚀 Мои проекты (почти все в Pinned Repos)
 
 ### 📱 PoinTo - Кросс-платформенный таск-менеджер
-> 🎓 **Дипломный проект** | Flutter | Real-time синхронизация
+> 🎓 **Дипломный проект** | Flutter | Real-time синхронизация 
 
 **Что умеет:**
 - ✉️ Подтверждение аккаунта через email
@@ -161,32 +161,6 @@ Perfection on ice → Perfect code execution
 - 💪 Спортзал
 
 **Философия:** "Дисциплина в спорте = дисциплина в коде"
-
-</details>
-
-## 🎮 Мини-игра: Угадай технологию!
-
-<details>
-<summary>🔍 Нажми, чтобы увидеть код!</summary>
-
-```dart
-class TaskManager {
-  final String id;
-  final List<User> collaborators;
-  
-  Stream<Task> get realTimeUpdates => 
-    _firestore.collection('tasks').snapshots();
-    
-  Future<void> assignTask(Task task, User user) async {
-    // Какая технология? 🤔
-  }
-}
-```
-
-<details>
-<summary>Ответ</summary>
-🎯 **Flutter + Dart** из проекта PoinTo!
-</details>
 
 </details>
 
