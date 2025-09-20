@@ -26,8 +26,6 @@ const dmitry: Developer = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmorong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9)
 
 </div>
